@@ -1,4 +1,4 @@
-Converte um .mid para um .data que funcione com rars
+Converte um .mid para um .data que funcione com assembly rars
 
 Abrir main.py (requer python)
 escolher o arquivo .mid
